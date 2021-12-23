@@ -1,8 +1,8 @@
 [![Gkonst's Github banner!](./assets/hello_world.jpg)](https://github.com/Gkonst1)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/6k0n57)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/giannis-konstantoulas/)
 [![TryHackMe Badge](https://img.shields.io/badge/Tryhackme-Profile-red)](https://tryhackme.com/p/Gkonst)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/giannis-konstantoulas/)
 
 Hey there! 👋
 
