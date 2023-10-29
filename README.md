@@ -23,12 +23,6 @@ Want to know more about me? Contact me through my socials!
 </a>
 
 <br>
-
-<a href="https://github.com/Gkonst1/Dubai-Landmarks-Blog">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Gkonst1&repo=Dubai-Landmarks-Blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
