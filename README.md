@@ -5,7 +5,7 @@
 
 Hey there! 👋
 
-I’m Giannis, a software engineer based in Greece. A creative problem solver who seeks new challenges all the time to exceed his programming limits. I'm also an information security enthusiast who specializes in penetration testing. I make it my mission to learn every day something new about technology and programming, so i can keep evolving and keep up with the times.
+Hi, I’m Giannis, a Greece-born, Dubai-based backend engineer and system designer passionate about building scalable, secure software. I focus on writing robust code, designing resilient architectures, and exploring new technologies. Open to collaborations and complex challenges.
 
 Want to know more about me? Contact me through my socials!
 
